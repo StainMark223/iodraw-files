@@ -364,7 +364,7 @@
           <mxGeometry x="-390" y="2710" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-120" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;总结:&lt;/h1&gt;&lt;div&gt;&lt;div&gt;电脑视角:&lt;/div&gt;&lt;div&gt;1.首先我要知道我的IP以及对方的IP&lt;/div&gt;&lt;div&gt;2.通过子网掩码判断我们是否在同一个子网&lt;/div&gt;&lt;div&gt;3.在同一个子网就通过arp获取对方mac地址直接扔出去&lt;/div&gt;&lt;div&gt;4.不在同一个子网就通过arp获取默认网关的mac地址直接出去&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1680" width="180" height="120" as="geometry" />
+          <mxGeometry x="1070" y="1680" width="180" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
