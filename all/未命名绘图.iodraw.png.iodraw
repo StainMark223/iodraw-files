@@ -354,7 +354,7 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-116" value="" style="shape=stencil(nVfLchpBDPwarqoZaZ5nx/kPVxkHKgRcmLz+PtpsLUFa3OvNDRY1K7W6NZqNPLztnl63Gw5vl/Pp6/bn/vmy28inDfP+uNue9xf9tJHHjTy8nM7bL+fT9+Pz+P31aYgcPn07/Rj+4deI65VKHVAcfo9PCrX898HnMf6wP9r4Wkx8zJQSADTiYAD6Bo4QkJsBSKLaIaBHA0hMBb2hk4gB5ESMauiUbdGFiVFKfSJxAtREEdAaQ6BgaWqMc0oUbNX6hOV9QMvULa9KnACAplzZArQswGvRlCyvN2XdReRILfhXoF5Lo1Y8INX3AVxJZkUIEgflWUYJlFCm19+w2lEFVK0yBkeB+EjFctq1j0AXwWu7CxVG8U53PVIA+QQqtgFN/Qriryq+xitjgP80/ds1Pk2M3VcpJctnEyjSGCizBxSgoCiUms9IkJeLt4FarzYAqNSd9yuuQV3grByg9+8AeGVKKjsGNhiKtn1WXcOUlFbbaDUO7IM2zim7wz6oMmajAh08iUrwCTEaLcTOyWXBac45OrATYOieM1c5v+HJFadsb1SHnK+Tyzk5ww4Xz7/6JqATzQui4cm1Nl4FwXUGACbQw6bOZgs6bPQ4y9EDAqJIKLoamDLgqGpKszUhghrq7MBc2ERqn37+4K6jALG0LmxT9XrEf3Bfa4GiVerCRqgA14eFnVMB3Wp7Yatt0c94vDZrvNMeHqca3y1HKlWUj3iKGM4utaJbKyJFFF+mUTLFBzhbdCmQ7OLRIqjnl5Q18UyyJp9hW24r6tXTzl1CMJ86+t2ujPulh2NyVxCoh/+4pi3E64d/d8KX/eEwXilvf/d3SH003j/l8Q8=);lineShape=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="64.16029133468601" y="2356.332743313838" width="22.203857576906408" height="26.773042117436795" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-117" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-117" value="路由器2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-118" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
