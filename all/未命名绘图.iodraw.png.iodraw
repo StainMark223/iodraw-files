@@ -312,7 +312,7 @@
           <mxGeometry x="104.55176633500139" y="2343.890925127588" width="326.2406861623769" height="312.6048726265594" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-87" value="对PC源来说只要以IP:192.168.0开头的都属于同一子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2460" width="60" height="30" as="geometry" />
+          <mxGeometry y="2430" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
