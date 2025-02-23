@@ -335,8 +335,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-104" value="网关可以&lt;span style=&quot;background-color: initial;&quot;&gt;理解成路由器或者其他网络转换设备的IP&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="294" y="2916.67" width="295" height="23.33" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-106" value="&lt;font color=&quot;#7ea6e0&quot;&gt;如何知道路由器的mac地址呢?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2960" width="180" height="30" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-106" value="&lt;font color=&quot;#7ea6e0&quot;&gt;如何知道路由器的mac地址呢?&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;ARP协议&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2955" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
