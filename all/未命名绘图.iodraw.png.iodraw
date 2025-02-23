@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-102" value="源与3的IP分别与子网掩码计算判断是否相等(是否在同一子网/是否需要路由器)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329" y="2625" width="60" height="30" as="geometry" />
+          <mxGeometry x="329" y="2625" width="151" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
