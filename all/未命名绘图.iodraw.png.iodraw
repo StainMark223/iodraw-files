@@ -266,6 +266,9 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-51" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="2410" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
