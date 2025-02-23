@@ -257,7 +257,7 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目标将PC源的数据发送给&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;PC1时不需要通过路由器层直接通过交换机(数据链路层)即可&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;PC3时&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;源----&amp;gt;路由器-----&amp;gt;PC3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="2270" width="247" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-50" value="路由器MAC地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-50" value="路由器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFg-aJ2et3ESMCKUlOI7-51" target="AFg-aJ2et3ESMCKUlOI7-50">
