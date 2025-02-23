@@ -196,8 +196,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-10" value="PC5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1754" width="60" height="30" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-20" value="路由器独立拥有MAC地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1754" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
