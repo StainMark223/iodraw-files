@@ -208,6 +208,9 @@
             <mxPoint x="420" y="2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-29" value="&lt;font color=&quot;#7ea6e0&quot;&gt;端口1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2055" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
