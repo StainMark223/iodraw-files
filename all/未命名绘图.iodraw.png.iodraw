@@ -360,8 +360,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-118" value="路由器3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-119" value="&lt;font color=&quot;#7ea6e0&quot;&gt;路由器中还存着一张路由表,&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;用于映射ip地址与端口&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;通过路由器之间传输,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;用以实现更长距离的信息传输&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="2708" width="180" height="70" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-119" value="&lt;font color=&quot;#7ea6e0&quot;&gt;路由器中还存着一张路由表,&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;用于映射&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;通过路由器之间传输,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;用以实现更长距离的信息传输&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2710" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
