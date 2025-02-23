@@ -314,6 +314,9 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-87" value="对PC源来说只要以IP:192.168.0开头的都属于同一子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="2430" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="2530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
