@@ -22,6 +22,9 @@
         <mxCell id="k68lwGocu5J3QesTo9U5-6" value="删除刚刚命名为scene的文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k68lwGocu5J3QesTo9U5-7" value="将放入的pkg文件重命名为scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
