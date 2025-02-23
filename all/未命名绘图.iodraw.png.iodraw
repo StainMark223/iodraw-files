@@ -251,11 +251,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-44" value="PC源&lt;div&gt;ip:192.168.0.23&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="135" y="2365" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-45" value="PC源&lt;div&gt;PC3&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="2365" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-48" value="&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;目标将PC源的数据发送给&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;PC1时不需要通过路由器层直接通过交换机(数据链路层)即可&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;PC3时,要通过路由器所以分成两段发送&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;源----&amp;gt;路由器-----&amp;gt;PC3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="233" y="2280" width="247" height="30" as="geometry" />
+          <mxGeometry x="327.5" y="2205" width="247" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFg-aJ2et3ESMCKUlOI7-50" target="AFg-aJ2et3ESMCKUlOI7-61">
           <mxGeometry relative="1" as="geometry" />
@@ -313,7 +310,7 @@
           <mxGeometry x="10" y="2415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-83" value="&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;判断是否需要路由器&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;如果源IP与目的IP在同一个子网,直接将包通过交换机发出出去&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;如果源IP与目的IP不在同一个子网,就交给路由器去处理。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="476" y="2460" width="334" height="55" as="geometry" />
+          <mxGeometry x="594" y="2442.5" width="334" height="55" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-87" value="对PC源来说只要以IP:192.168.0开头的都属于同一子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="2430" width="110" height="80" as="geometry" />
