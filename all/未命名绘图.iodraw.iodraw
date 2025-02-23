@@ -7,7 +7,7 @@
         <mxCell id="k68lwGocu5J3QesTo9U5-1" value="找到pkg文件的所在地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-2" value="将他们将他们按照序号的方式从小到大的逐个的，不要一下子全部放入的。放入repkg程序所在文件夹。并为其重命名为scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k68lwGocu5J3QesTo9U5-2" value="将他们将他们按照序号的方式从小到大的逐个的，不要一下子全部放入的。放入指定文件夹。并为其重命名为scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="k68lwGocu5J3QesTo9U5-3" value="运行RePKG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
