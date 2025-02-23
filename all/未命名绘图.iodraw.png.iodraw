@@ -329,8 +329,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-102" value="源与3的IP分别与子网掩码计算判断&lt;div&gt;是否相等&lt;div&gt;是否在同一子网&lt;/div&gt;&lt;div&gt;是否需要路由器&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323" y="2640" width="171" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="2928" width="50" height="30" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-103" value="&lt;font color=&quot;#7ea6e0&quot;&gt;源怎么知道哪个是路由器呢?&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;设置默认网关&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2860" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
