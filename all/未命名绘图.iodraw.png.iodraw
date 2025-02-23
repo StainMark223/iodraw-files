@@ -266,8 +266,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-51" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="353" y="2440" width="60" height="30" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-56" value="&lt;font color=&quot;#7ea6e0&quot;&gt;MAC地址&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="2410" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
