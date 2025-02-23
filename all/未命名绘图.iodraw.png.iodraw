@@ -211,13 +211,11 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-29" value="&lt;font color=&quot;#7ea6e0&quot;&gt;端口1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="2055" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AFg-aJ2et3ESMCKUlOI7-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="2110" as="sourcePoint" />
-            <mxPoint x="400" y="2060" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="2080" />
-            </Array>
+            <mxPoint x="539" y="2070" as="sourcePoint" />
+            <mxPoint x="589" y="2020" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
