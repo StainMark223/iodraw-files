@@ -299,6 +299,9 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-71" value="&lt;div&gt;PC与交换机交互的过程时&lt;/div&gt;数据链路层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323" y="2425" width="91" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2660" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
