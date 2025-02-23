@@ -348,8 +348,8 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-111" value="PC源通过给路由器发出地址&lt;div&gt;让路由器请求PC3的响应&lt;/div&gt;&lt;div&gt;通过ARC协议&lt;div&gt;将地址传给路由器,建立连接通道&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-55" y="2658" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="2670" width="50" height="100" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-112" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2610" width="130" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
