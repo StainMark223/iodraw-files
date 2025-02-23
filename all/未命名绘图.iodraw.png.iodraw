@@ -314,7 +314,7 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-87" value="对PC源来说只要以IP:192.168.0开头的都属于同一子网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="2430" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-88" value="&lt;font color=&quot;#7ea6e0&quot;&gt;计算机如何理解上面这段话&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-88" value="&lt;font color=&quot;#7ea6e0&quot;&gt;计算机如何理解上面这段话?&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;将源IP,目的IP与子网掩码经行与运算,相等则在同一子网.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;例如:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="2530" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
