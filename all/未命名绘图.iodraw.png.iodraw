@@ -202,9 +202,9 @@
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFg-aJ2et3ESMCKUlOI7-23" target="AFg-aJ2et3ESMCKUlOI7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFg-aJ2et3ESMCKUlOI7-5" target="AFg-aJ2et3ESMCKUlOI7-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="449" y="2070" as="sourcePoint" />
+            <mxPoint x="350" y="2110" as="sourcePoint" />
             <mxPoint x="420" y="2070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -218,11 +218,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFg-aJ2et3ESMCKUlOI7-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="2070" as="sourcePoint" />
-            <mxPoint x="389" y="2070" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2055" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
