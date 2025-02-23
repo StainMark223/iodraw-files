@@ -16,7 +16,7 @@
         <mxCell id="k68lwGocu5J3QesTo9U5-4" value="再打开指定文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-5" value="在该文件内新建一个文件夹以序号命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k68lwGocu5J3QesTo9U5-5" value="在该文件内新建一个文件夹以从小到大的序号命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k68lwGocu5J3QesTo9U5-6" value="删除刚刚命名为scene的文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
