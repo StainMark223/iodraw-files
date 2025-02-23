@@ -245,8 +245,8 @@
             <mxPoint x="781" y="2035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFg-aJ2et3ESMCKUlOI7-44" value="数据链路层&lt;div&gt;交换机接口&lt;/div&gt;&lt;div&gt;路由器等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="153" y="2330" width="120" height="130" as="geometry" />
+        <mxCell id="AFg-aJ2et3ESMCKUlOI7-44" value="源MAC地址&lt;div&gt;目标MAC地址&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFg-aJ2et3ESMCKUlOI7-45" value="网络层&lt;div&gt;电脑IP地址等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="2365" width="120" height="60" as="geometry" />
