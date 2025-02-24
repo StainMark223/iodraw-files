@@ -7,6 +7,9 @@
         <mxCell id="C04bBX-UwUCtTOAwv-6D-1" value="新民主主义的革命&lt;div&gt;1919-1949&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C04bBX-UwUCtTOAwv-6D-2" value="社会主义社会&lt;div&gt;1949-1956&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
