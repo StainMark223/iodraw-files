@@ -22,7 +22,7 @@
         <mxCell id="YxqahywW24MmNPG3n1PY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YxqahywW24MmNPG3n1PY-5" value="路由器给需要需要上网的设备提供私有ip，当他们需要上网时，net将私有IP转化为私有ip" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YxqahywW24MmNPG3n1PY-5" value="路由器给需要需要上网的设备提供私有ip，当他们需要上网时，net将私有IP转化为公有ip" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YxqahywW24MmNPG3n1PY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.977;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YxqahywW24MmNPG3n1PY-1" target="YxqahywW24MmNPG3n1PY-3">
