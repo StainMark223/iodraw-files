@@ -5,7 +5,11 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YxqahywW24MmNPG3n1PY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="YxqahywW24MmNPG3n1PY-1" target="YxqahywW24MmNPG3n1PY-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="165" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YxqahywW24MmNPG3n1PY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YxqahywW24MmNPG3n1PY-1" target="YxqahywW24MmNPG3n1PY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -15,6 +19,11 @@
         </mxCell>
         <mxCell id="YxqahywW24MmNPG3n1PY-1" value="路由器&lt;div&gt;公网ip&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i8GhlDwOTT_dYk73DXt3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="YxqahywW24MmNPG3n1PY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YxqahywW24MmNPG3n1PY-2" value="虚拟PC1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
