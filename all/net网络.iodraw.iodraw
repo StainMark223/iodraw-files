@@ -72,6 +72,9 @@
         <mxCell id="i8GhlDwOTT_dYk73DXt3-23" value="数据包改写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="740" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i8GhlDwOTT_dYk73DXt3-26" value="这些流程称为net模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="68" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
