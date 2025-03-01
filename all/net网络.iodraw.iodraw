@@ -37,8 +37,16 @@
         <mxCell id="i8GhlDwOTT_dYk73DXt3-3" value="分配地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i8GhlDwOTT_dYk73DXt3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i8GhlDwOTT_dYk73DXt3-4" target="YxqahywW24MmNPG3n1PY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i8GhlDwOTT_dYk73DXt3-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i8GhlDwOTT_dYk73DXt3-7">
+          <mxGeometry x="-0.151" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i8GhlDwOTT_dYk73DXt3-4" value="宿主PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i8GhlDwOTT_dYk73DXt3-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YxqahywW24MmNPG3n1PY-3" target="YxqahywW24MmNPG3n1PY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
