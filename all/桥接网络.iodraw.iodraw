@@ -7,7 +7,7 @@
         <mxCell id="UokkfwvMpGZO_Cmnagjf-1" value="虚拟pc1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UokkfwvMpGZO_Cmnagjf-2" value="虚拟pc2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UokkfwvMpGZO_Cmnagjf-2" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;可以相互连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UokkfwvMpGZO_Cmnagjf-5" value="宿主PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,6 +22,12 @@
         <mxCell id="UokkfwvMpGZO_Cmnagjf-8" value="可以相互连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UokkfwvMpGZO_Cmnagjf-7">
           <mxGeometry x="-0.0149" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UokkfwvMpGZO_Cmnagjf-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UokkfwvMpGZO_Cmnagjf-2" target="UokkfwvMpGZO_Cmnagjf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
