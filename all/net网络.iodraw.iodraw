@@ -135,6 +135,14 @@
         <mxCell id="19Ii0YPIqUAOdKpqYmUE-5" value="宿主PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="19Ii0YPIqUAOdKpqYmUE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="19Ii0YPIqUAOdKpqYmUE-15" target="19Ii0YPIqUAOdKpqYmUE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19Ii0YPIqUAOdKpqYmUE-20" value="无法访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19Ii0YPIqUAOdKpqYmUE-19">
+          <mxGeometry x="-0.0382" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="19Ii0YPIqUAOdKpqYmUE-15" value="公网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
