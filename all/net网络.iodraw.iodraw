@@ -165,6 +165,9 @@
         <mxCell id="19Ii0YPIqUAOdKpqYmUE-27" value="net连接方式只出不进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="19Ii0YPIqUAOdKpqYmUE-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
