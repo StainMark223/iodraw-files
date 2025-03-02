@@ -55,7 +55,7 @@
             <mxPoint x="389.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UokkfwvMpGZO_Cmnagjf-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UokkfwvMpGZO_Cmnagjf-14">
+        <mxCell id="UokkfwvMpGZO_Cmnagjf-15" value="所有可以相互连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UokkfwvMpGZO_Cmnagjf-14">
           <mxGeometry x="-0.0154" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
