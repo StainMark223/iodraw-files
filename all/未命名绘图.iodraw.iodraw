@@ -8,28 +8,28 @@
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-2" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-3" value="会话层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-4" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-5" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-6" value="数据链路层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-7" value="物理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-8" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-9" value="FTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
