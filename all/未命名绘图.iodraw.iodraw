@@ -23,7 +23,10 @@
           <mxGeometry x="120" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-7" value="物理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
