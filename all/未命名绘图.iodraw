@@ -10,7 +10,7 @@
         <mxCell id="DaeJvG8OY559suYcmBX0-1" value="运输层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaeJvG8OY559suYcmBX0-2" value="网际互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaeJvG8OY559suYcmBX0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
