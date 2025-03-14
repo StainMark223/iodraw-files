@@ -1,38 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="6GqnG23l9XsSiKG-wOxp">
-    <mxGraphModel dx="1050" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="olwTKQNVSq-9e06TSqFP">
+    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k68lwGocu5J3QesTo9U5-1" value="找到指定目标的文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-2" value="将文件夹中pkg文件以他们文件命名上的序号，从小到大的顺序，放入指定文件夹。逐个走一遍下面的循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-3" value="在该文件夹内运行已有的RePKG.bat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-4" value="再打开指定文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-5" value="在该文件内新建一个文件夹以从小到大的序号命名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-6" value="删除刚刚命名为scene的文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-7" value="将放入的pkg文件重命名为scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k68lwGocu5J3QesTo9U5-2" target="k68lwGocu5J3QesTo9U5-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-9" value="将非文件夹的文件全部放入刚刚新建的文件夹内" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k68lwGocu5J3QesTo9U5-10" value="重复以上程序直到运行到编号为最大数为止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
