@@ -10,6 +10,9 @@
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-2" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-3" value="会话层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
