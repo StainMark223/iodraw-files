@@ -7,29 +7,23 @@
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-1" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-1" value="运输层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-2" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-2" value="网际互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-3" value="会话层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-3" value="网络接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-4" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-4" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-5" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-5" value="FTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-6" value="数据链路层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-6" value="SMTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-7" value="NTP&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DaeJvG8OY559suYcmBX0-8" value="DHCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="fruVxbZvgm2jl-kmFIZ6-7" value="物理层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
