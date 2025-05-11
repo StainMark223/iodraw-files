@@ -13,6 +13,9 @@
         <mxCell id="5Si4cqxQWf0jEnj_Ry8W-3" value="HKEY LOCAL MACHINE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5Si4cqxQWf0jEnj_Ry8W-4" value="SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
