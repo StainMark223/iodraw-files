@@ -25,6 +25,9 @@
         <mxCell id="5Si4cqxQWf0jEnj_Ry8W-7" value="&lt;div&gt;BypassTPMCheck&lt;/div&gt;&lt;div&gt;BypassSecureBootCheck&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="820" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5Si4cqxQWf0jEnj_Ry8W-8" value="如果下载windows时出现配置不适配问题可以尝试一下步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
