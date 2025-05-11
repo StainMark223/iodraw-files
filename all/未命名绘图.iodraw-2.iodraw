@@ -35,7 +35,7 @@
           <mxGeometry x="380" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Si4cqxQWf0jEnj_Ry8W-7" value="&lt;div&gt;新建两个Dword32位的配置文件,并将其重命名位&lt;/div&gt;&lt;div&gt;BypassTPMCheck和&lt;/div&gt;&lt;div&gt;BypassSecureBootCheck并将其数据都改为1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="820" width="170" height="60" as="geometry" />
+          <mxGeometry x="355" y="820" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5Si4cqxQWf0jEnj_Ry8W-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Si4cqxQWf0jEnj_Ry8W-8" target="5Si4cqxQWf0jEnj_Ry8W-1">
           <mxGeometry relative="1" as="geometry" />
