@@ -7,8 +7,8 @@
         <mxCell id="I1NB3bglaHkI5wJypMxc-1" value="应用kali中的arpspoof" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I1NB3bglaHkI5wJypMxc-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="175" width="60" height="30" as="geometry" />
+        <mxCell id="I1NB3bglaHkI5wJypMxc-2" value="读取目标缓存表,将网关的mac地址替换成攻击者的IP地址" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="175" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
