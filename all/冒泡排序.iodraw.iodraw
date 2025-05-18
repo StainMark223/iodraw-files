@@ -60,7 +60,7 @@
         <mxCell id="fquLYogrAOujTe9gxcgE-14" value="将输入的整数存入a[i]中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fquLYogrAOujTe9gxcgE-17" value="i=0;i&amp;lt;N-1;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fquLYogrAOujTe9gxcgE-17" value="循环i=0;i&amp;lt;N-1;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-19" value="j=0;j&amp;lt;N-1-i;j++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
