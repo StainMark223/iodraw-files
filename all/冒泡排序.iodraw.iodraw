@@ -11,7 +11,7 @@
           <mxGeometry x="358" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-2" value="比较a[j]和a[j+1]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fquLYogrAOujTe9gxcgE-3">
           <mxGeometry relative="1" as="geometry">
@@ -37,7 +37,7 @@
           <mxGeometry x="358" y="910" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-4" value="两个元素交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="128" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-7" value="不交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="1050" width="120" height="60" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="353" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-17" value="循环&lt;div&gt;i=0;i&amp;lt;N-1;i++&lt;div&gt;j=0;j&amp;lt;N-1-i;j++&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="680" width="202" height="60" as="geometry" />
+          <mxGeometry x="312" y="700" width="202" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.554;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fquLYogrAOujTe9gxcgE-10" target="fquLYogrAOujTe9gxcgE-11">
           <mxGeometry relative="1" as="geometry" />
