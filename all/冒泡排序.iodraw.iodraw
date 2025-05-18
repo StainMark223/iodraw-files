@@ -38,10 +38,10 @@
           <mxGeometry x="578" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-10" value="输入%d个整数,将其放入函数N中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="358" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-11" value="i=0;i&amp;lt;N;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-13" value="定义函数N 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="220" width="120" height="60" as="geometry" />
