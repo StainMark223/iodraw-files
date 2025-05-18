@@ -54,14 +54,13 @@
         <mxCell id="fquLYogrAOujTe9gxcgE-14" value="将输入的整数存入a[i]中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fquLYogrAOujTe9gxcgE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fquLYogrAOujTe9gxcgE-17" target="fquLYogrAOujTe9gxcgE-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fquLYogrAOujTe9gxcgE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fquLYogrAOujTe9gxcgE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659.9999999999998" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fquLYogrAOujTe9gxcgE-17" value="i=0;i&amp;lt;N;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fquLYogrAOujTe9gxcgE-18" value="将输入的整数存入a[i]中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="fquLYogrAOujTe9gxcgE-17" value="i=0;i&amp;lt;N-1;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
