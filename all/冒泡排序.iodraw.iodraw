@@ -34,7 +34,7 @@
           <mxGeometry x="353" y="810" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-4" value="两个元素交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-7" value="不交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="1050" width="120" height="60" as="geometry" />
