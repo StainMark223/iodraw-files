@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fquLYogrAOujTe9gxcgE-1" value="定义a[N]," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fquLYogrAOujTe9gxcgE-1" value="定义a[N],j,i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-2" value="比较a[j]和a[j+1]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fquLYogrAOujTe9gxcgE-3" target="fquLYogrAOujTe9gxcgE-4">
           <mxGeometry relative="1" as="geometry" />
