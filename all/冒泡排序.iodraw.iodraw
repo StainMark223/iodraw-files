@@ -37,7 +37,7 @@
         <mxCell id="fquLYogrAOujTe9gxcgE-7" value="不交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fquLYogrAOujTe9gxcgE-10" value="输入%d个整数,将其放入函数N中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fquLYogrAOujTe9gxcgE-10" value="输入%d个整数,N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fquLYogrAOujTe9gxcgE-11" value="i=0;i&amp;lt;N;i++" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
