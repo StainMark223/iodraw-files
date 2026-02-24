@@ -405,8 +405,8 @@
             <mxPoint x="4052.0526315789475" y="340" as="sourcePoint" />
             <mxPoint x="3830" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4052" y="470" />
-              <mxPoint x="3840" y="470" />
+              <mxPoint x="4052" y="465" />
+              <mxPoint x="3840" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -430,8 +430,8 @@
         <mxCell id="6bUA-pRNusyQSTeh-Di4-28" value="赵春香（老大）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3661.5" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6bUA-pRNusyQSTeh-Di4-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3770" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-30" value="赵群英（老二）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
