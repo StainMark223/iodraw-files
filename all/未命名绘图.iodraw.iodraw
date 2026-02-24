@@ -347,47 +347,47 @@
         <mxCell id="6bUA-pRNusyQSTeh-Di4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-5" target="6bUA-pRNusyQSTeh-Di4-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3560" y="40" />
-              <mxPoint x="3450" y="40" />
+              <mxPoint x="3585" y="70" />
+              <mxPoint x="3475" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-5" target="6bUA-pRNusyQSTeh-Di4-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3560" y="40" />
-              <mxPoint x="3640" y="40" />
+              <mxPoint x="3585" y="70" />
+              <mxPoint x="3665" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-5" target="6bUA-pRNusyQSTeh-Di4-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3560" y="40" />
-              <mxPoint x="3810" y="40" />
+              <mxPoint x="3585" y="70" />
+              <mxPoint x="3835" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-5" value="赵文治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3500" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="3525" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-8" value="赵金清（老大）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2895" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="2920" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-9" value="赵金天（老三）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3075" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-10" value="赵金粦（老四）&lt;div&gt;四叔公&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3225" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-14" value="陈福元(老六）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3390" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3415" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-16" value="肖春申（老五）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3580" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3605" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-18" value="赵玉燕（老二）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3750" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="3775" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
