@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yLSdFaGpkODIg3NA2aL2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yLSdFaGpkODIg3NA2aL2-3" target="yLSdFaGpkODIg3NA2aL2-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2015" y="455" />
+              <mxPoint x="2210" y="455" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yLSdFaGpkODIg3NA2aL2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLSdFaGpkODIg3NA2aL2-3" target="yLSdFaGpkODIg3NA2aL2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,8 +93,8 @@
         <mxCell id="yLSdFaGpkODIg3NA2aL2-19" value="张振(老大）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1850" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yLSdFaGpkODIg3NA2aL2-20" value="张宁（老三）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2150" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="yLSdFaGpkODIg3NA2aL2-20" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;张宁（老三）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLSdFaGpkODIg3NA2aL2-21" value="张默仙(老二）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2430" y="520" width="120" height="60" as="geometry" />
