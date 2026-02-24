@@ -394,6 +394,17 @@
         <mxCell id="6bUA-pRNusyQSTeh-Di4-9" value="赵金天（老三）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4265" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-10" target="6bUA-pRNusyQSTeh-Di4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-10" target="6bUA-pRNusyQSTeh-Di4-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4570" y="160" />
+              <mxPoint x="4570" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-10" value="赵金粦（老四）&lt;div&gt;四叔公&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4415" y="130" width="120" height="60" as="geometry" />
         </mxCell>
