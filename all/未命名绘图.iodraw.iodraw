@@ -344,6 +344,14 @@
         <mxCell id="6bUA-pRNusyQSTeh-Di4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-5" target="yLSdFaGpkODIg3NA2aL2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6bUA-pRNusyQSTeh-Di4-5" target="6bUA-pRNusyQSTeh-Di4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2760" y="70" />
+              <mxPoint x="2990" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-5" value="赵文治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -358,6 +366,9 @@
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-14" value="陈福元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2930" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
