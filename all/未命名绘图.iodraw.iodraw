@@ -316,6 +316,12 @@
         <mxCell id="6bUA-pRNusyQSTeh-Di4-1" value="张义生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-4" value="赵文贤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6bUA-pRNusyQSTeh-Di4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
