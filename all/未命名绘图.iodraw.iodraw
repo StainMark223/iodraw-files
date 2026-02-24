@@ -422,9 +422,7 @@
             <mxPoint x="4052.0526315789475" y="340" as="sourcePoint" />
             <mxPoint x="3830" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4052" y="465" />
-              <mxPoint x="4140" y="465" />
-              <mxPoint x="4140" y="520" />
+              <mxPoint x="4052" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -435,7 +433,7 @@
           <mxGeometry x="4180" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-24" value="赵涵彬" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="3990" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bUA-pRNusyQSTeh-Di4-28" value="赵春香（老大）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3661.5" y="340" width="120" height="60" as="geometry" />
