@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HqPVlspjpeRW53CTHoFD">
-    <mxGraphModel dx="840" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="yLSdFaGpkODIg3NA2aL2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLSdFaGpkODIg3NA2aL2-6" target="yLSdFaGpkODIg3NA2aL2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yLSdFaGpkODIg3NA2aL2-6" value="赵金莺(老大）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="yLSdFaGpkODIg3NA2aL2-6" value="&lt;font color=&quot;#ff3333&quot;&gt;赵金莺(老大）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2290" y="330" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLSdFaGpkODIg3NA2aL2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yLSdFaGpkODIg3NA2aL2-10" target="yLSdFaGpkODIg3NA2aL2-3" edge="1">
