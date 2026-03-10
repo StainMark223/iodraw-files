@@ -25,6 +25,12 @@
         <mxCell id="21540" value="Balance" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="569.5" y="348.5" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E-M7SeJ-gkN7fPZOfpjH-21540" value="自动调节光照函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-M7SeJ-gkN7fPZOfpjH-21541" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
