@@ -28,7 +28,7 @@
         <mxCell id="E-M7SeJ-gkN7fPZOfpjH-21540" value="自动调节光照函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="189" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E-M7SeJ-gkN7fPZOfpjH-21541" value="&#xa;&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt;H1750&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt;ReadLightLevel&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E-M7SeJ-gkN7fPZOfpjH-21541" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #c8c8c8;&quot;&gt;BH1750&lt;/span&gt;.&lt;span style=&quot;color: #c8c8c8;&quot;&gt;ReadLightLevel&lt;/span&gt;();&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
