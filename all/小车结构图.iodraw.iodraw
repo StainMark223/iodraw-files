@@ -34,8 +34,8 @@
         <mxCell id="ue7OUPCF23lz_QaDNtnA-11" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;电机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="780" width="1620" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ue7OUPCF23lz_QaDNtnA-12" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;arduino&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="ue7OUPCF23lz_QaDNtnA-12" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;arduino开发板&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="510" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
