@@ -4,14 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ue7OUPCF23lz_QaDNtnA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ue7OUPCF23lz_QaDNtnA-1" target="ue7OUPCF23lz_QaDNtnA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ue7OUPCF23lz_QaDNtnA-1" value="k210" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7OUPCF23lz_QaDNtnA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ue7OUPCF23lz_QaDNtnA-2" target="ue7OUPCF23lz_QaDNtnA-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ue7OUPCF23lz_QaDNtnA-2" value="k210转接板子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ue7OUPCF23lz_QaDNtnA-3" value="iostudio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7OUPCF23lz_QaDNtnA-4" value="舵机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
