@@ -43,8 +43,8 @@
         <mxCell id="ue7OUPCF23lz_QaDNtnA-14" value="zigbee模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ue7OUPCF23lz_QaDNtnA-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="550" width="120" height="500" as="geometry" />
+        <mxCell id="ue7OUPCF23lz_QaDNtnA-15" value="循迹板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="620" width="120" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
