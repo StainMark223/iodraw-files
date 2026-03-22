@@ -28,6 +28,9 @@
         <mxCell id="T4nsetsV9AuAgoLAVteK-9" value="当字符串数量为0后停止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T4nsetsV9AuAgoLAVteK-10" value="通过数组重组字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
