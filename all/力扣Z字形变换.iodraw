@@ -13,7 +13,7 @@
         <mxCell id="T4nsetsV9AuAgoLAVteK-4" value="按照行数切割一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-5" value="循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4nsetsV9AuAgoLAVteK-5" value="循环" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
