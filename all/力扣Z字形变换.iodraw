@@ -4,27 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T4nsetsV9AuAgoLAVteK-4" value="按照行数切割一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-5" value="循环" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-6" value="存入数组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-7" value="按照行数-2切割一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-8" value="存入数组2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-9" value="当字符串数量为0后停止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-10" value="通过数组重组字符串" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
