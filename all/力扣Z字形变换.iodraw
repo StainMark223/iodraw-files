@@ -17,7 +17,7 @@
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4nsetsV9AuAgoLAVteK-6" value="存入数组1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4nsetsV9AuAgoLAVteK-7" value="按照行数-2切割一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="750" width="120" height="60" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="T4nsetsV9AuAgoLAVteK-8" value="存入数组2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4nsetsV9AuAgoLAVteK-9" value="当" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4nsetsV9AuAgoLAVteK-9" value="当字符串数量为0后停止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
