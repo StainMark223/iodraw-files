@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QQeZbhKeSRKFoG-zaZag-2" value="对比纵坐标的数字，返回两个最大值，并将较小的一个收集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QQeZbhKeSRKFoG-zaZag-3" value="同时在不改变数组排序的情况下，收集两个最大数组的角标差" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QQeZbhKeSRKFoG-zaZag-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
