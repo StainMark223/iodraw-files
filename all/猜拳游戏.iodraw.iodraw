@@ -36,7 +36,7 @@
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-12" value="相等" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-13" value="用户输入1，电脑输出2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-13" value="用户输入1，电脑输入2&lt;div&gt;用户输入2，电脑输入3&lt;/div&gt;&lt;div&gt;用户输入3，电脑输入1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="730" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-14" target="hZ4Q3p-G8jmWrEPG7_ot-13">
