@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="l2-h3dQ2WxtWJc7B5asm">
-    <mxGraphModel dx="1050" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,17 +30,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-6" target="hZ4Q3p-G8jmWrEPG7_ot-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-6" value="输入是否合法&lt;div&gt;（1，2，3）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-12" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="535" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-14" target="hZ4Q3p-G8jmWrEPG7_ot-13">
           <mxGeometry relative="1" as="geometry" />
@@ -51,14 +48,11 @@
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-14" target="hZ4Q3p-G8jmWrEPG7_ot-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-14" target="hZ4Q3p-G8jmWrEPG7_ot-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="530" width="190" height="80" as="geometry" />
+          <mxGeometry x="250" y="720" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-16" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
