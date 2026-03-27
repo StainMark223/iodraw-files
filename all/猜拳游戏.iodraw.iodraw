@@ -13,7 +13,7 @@
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-4" target="hZ4Q3p-G8jmWrEPG7_ot-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-4" value="player1&lt;div&gt;player2&lt;/div&gt;&lt;div&gt;（0，1，2）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-4" value="用户输入（1，2，3）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-6">
