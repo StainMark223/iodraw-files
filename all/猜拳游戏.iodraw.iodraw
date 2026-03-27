@@ -57,14 +57,6 @@
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-12" value="相等" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-13" target="hZ4Q3p-G8jmWrEPG7_ot-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="657" y="1030" />
-              <mxPoint x="370" y="1030" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-13" value="用户输入1，电脑输入2&lt;div&gt;用户输入2，电脑输入3&lt;/div&gt;&lt;div&gt;用户输入3，电脑输入1&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="750" width="245" height="60" as="geometry" />
         </mxCell>
