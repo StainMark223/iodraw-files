@@ -101,8 +101,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZ4Q3p-G8jmWrEPG7_ot-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-28" value="是否继续游戏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="1070" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ4Q3p-G8jmWrEPG7_ot-33" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="308.28208974372455" y="1160.9740002647243" width="4.918462918016016" height="4.910774964587051" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
