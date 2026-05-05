@@ -40,8 +40,11 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-5" value="管理通信会话的建立、维护和终止，支持同步和恢复功能。常用于身份验证和会话管理。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="405" width="356" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="285" width="60" height="30" as="geometry" />
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-6" value="负责数据的格式化、加密解密和压缩解压，确保不同系统间的数据交换。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="285" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="145" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
