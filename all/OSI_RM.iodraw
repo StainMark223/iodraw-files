@@ -34,7 +34,7 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-3" value="负责路由选择和数据包的传输，使用IP地址标识设备。核心协议包括IP、ICMP等，典型设备为路由器。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="630" width="316" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(239, 234, 231);&quot;&gt;提供端到端的数据传输服务，确保数据的可靠性。主要协议为TCP和UDP，数据单位为段（Segment）。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="525" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
