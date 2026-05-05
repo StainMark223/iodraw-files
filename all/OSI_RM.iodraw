@@ -34,6 +34,9 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-3" value="负责路由选择和数据包的传输，使用IP地址标识设备。核心协议包括IP、ICMP等，典型设备为路由器。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="630" width="316" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
