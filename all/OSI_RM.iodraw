@@ -43,8 +43,8 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-6" value="负责数据的格式化、加密解密和压缩解压，确保不同系统间的数据交换。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="285" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="145" width="60" height="30" as="geometry" />
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-7" value="直接面向用户，提供网络服务接口。常见协议包括HTTP、FTP、SMTP等。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="145" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
