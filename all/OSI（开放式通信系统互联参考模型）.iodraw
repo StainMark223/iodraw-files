@@ -55,8 +55,8 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-11" value="&lt;span style=&quot;color: rgb(25, 27, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, &amp;quot;MiSans L3&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: medium; text-align: start; white-space: pre; background-color: rgb(244, 246, 249);&quot;&gt;提供介质访问和链路管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-12" value="IP选址及路由选择。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="660" width="195" height="30" as="geometry" />
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IP选址及路由选择。&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="660" width="195" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
