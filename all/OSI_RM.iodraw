@@ -28,8 +28,11 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(239, 234, 231);&quot;&gt;负责数据的物理传输，定义硬件特性（如电缆、光纤、电压等）。主要传输比特流，典型设备包括集线器和网线接口（如RJ45）。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="875" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="735" width="60" height="30" as="geometry" />
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(239, 234, 231);&quot;&gt;提供可靠的数据传输，负责帧的封装、物理地址（MAC地址）寻址、错误检测与纠正。典型设备为交换机。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="735" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
