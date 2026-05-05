@@ -25,6 +25,9 @@
         <mxCell id="fruVxbZvgm2jl-kmFIZ6-7" value="物理层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="875" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
