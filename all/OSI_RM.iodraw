@@ -37,8 +37,11 @@
         <mxCell id="XRSpViTIvMp-7Ewlj45h-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(239, 234, 231);&quot;&gt;提供端到端的数据传输服务，确保数据的可靠性。主要协议为TCP和UDP，数据单位为段（Segment）。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="525" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRSpViTIvMp-7Ewlj45h-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="405" width="60" height="30" as="geometry" />
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-5" value="管理通信会话的建立、维护和终止，支持同步和恢复功能。常用于身份验证和会话管理。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="405" width="356" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XRSpViTIvMp-7Ewlj45h-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
